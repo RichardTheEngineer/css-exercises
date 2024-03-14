@@ -1,0 +1,22 @@
+.p1 {
+    background-color: #f08080;
+    font-family: Verdana "Dejavu Sans" sans-serif;
+
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+#div1 {
+    font-size: 36px;
+    color: rgb(0, 119, 255);
+
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
