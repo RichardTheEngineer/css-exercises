@@ -46,9 +46,11 @@ ul {
 }
 
 .content {
+  /* flex:1; */
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 20px;
 }
 
 a {
@@ -66,3 +68,4 @@ a {
 .footer {
   background-color: #eeeeee;
 }
+
